@@ -1,6 +1,11 @@
-Name,Age,Gender,Salary,Department
-Alice,25,Female,50000,HR
-Bob,28,Male,,Engineering
-Charlie,35,Male,65000,HR
-David,,Male,70000,Marketing
-Eva,30,Female,60000,Engineering
+Name,Age,Gender,Income,City,Churn
+Alice,25,Female,50000,New York,0
+Bob,35,Male,60000,San Francisco,1
+Charlie,45,Male,,Los Angeles,0
+Diana,28,Female,52000,New York,0
+Eva,38,Female,63000,San Francisco,1
+Frank,32,Male,58000,,0
+Grace,41,Female,67000,Chicago,1
+Henry,29,Male,,Chicago,0
+Isla,36,Female,61000,Los Angeles,1
+Jake,40,Male,64000,New York,0
